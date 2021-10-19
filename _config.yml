@@ -5,3 +5,6 @@ author:
   name: Alva Sofía
   email: endlessnyarlatothep@gmail.com
 description: Un espacio de difusión de las humanidades humanidades y su labor, así como de fragmentos digitales.
+
+# Build settings
+remote_theme: jekyll/minima
