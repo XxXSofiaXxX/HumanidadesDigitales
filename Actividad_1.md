@@ -4,7 +4,7 @@ title: Humanidades digitales
 ---
 Las humanidades digitales se han perfilado como un nuevo campo de estudio, por lo cuál es importante pensar de qué estamos hablando cuando nos referimos a estas mismas. Aquí se 
 revisarán las posturas de Isabel Galina y Gimena del Río para poder conocer sus semejanzas y diferencias, y poder plantearnos qué significa este nuevo campo.
-***
+
 ## ¿Qué son? 
 ***
 #### Isabel Galina
@@ -26,7 +26,7 @@ Aquí también entra en la discusión la distinción entre digital humanities y 
 humanidades digitales busca extenderse a una escala global, pero las humanidades digitales en español tienen que construirse de una manera más autónoma y sin depender de las
 estructuras y esquemas antes elaborados de los english departaments. Se busca con esta distinción enfocarse en el conocimiento local para la adaptación de esta disciplina, pues
 este responde a los condicionamientos económicos, sociales y políticos, que pueden influir en el modo, gestión y percepción del conocimiento.
-***
+
 ## Origen 
 ***
 #### Isabel Galina
@@ -52,7 +52,7 @@ desplaza a la informática humanísitica, el término ‘nuevas tecnologías’,
 logró unificarse y enmarcar sus teorías. 
 En cuanto a término de humanidades digitales y digital humanities, sin hacer ahora una distinción específica, las bases de este término se encuentran sentadas en el Defining
 Digital Humanities (2013), el cual es una recopilación de las publicaciones más relevantes y populares
-***
+
 ## Objetivos
 ***
 #### Isabel Galina 
@@ -64,7 +64,7 @@ Se nos presentan al menos tres objetivos, los cuales son:
 #### Gimena del Río 
 Aunque no son nombrados de manera explícita me parece que parte de los objetivos de las humanidades digitales junto con su contraparte digital humanities es repensar sus
 esquemas para lograr su adaptación a distintos lugares, lo cual desembocará en su difusión. 
-***
+
 ## Difusión 
 ***
 #### Isabel Galina 
@@ -72,31 +72,31 @@ Se reconoce que uno de los retos actuales es la internacionalización mediante l
 Las iniciativas en este surgen mayoritariamente en EUA, UK y Canadá. En México esto es un área desentendida y en respuesta a eso se crea la red de humanidades digitales (redHD)
 para impulsar este nuevo campo. 
 Se nos ponen de ejemplo tres proyectos: 
-1. *El Corpus histórico del Español en México.*
+ - *El Corpus histórico del Español en México.*
 Este sitio ofrece una colección de documentos diacrónicos sobre diversos géneros textuales, además de que brinda herramientas para su exploración y análisis. Este sitio es una
 valiosa herramienta para la lingüística (creación de recursos). 
-2. *El expediente en línea del Proceso judicial a Francisco I. Madero en 1910.*
+ - *El expediente en línea del Proceso judicial a Francisco I. Madero en 1910.*
 Aquí se pueden encontrar cuadernos, documentos y fojas sobre este hecho histórico.
-3. *Biblioteca digital del pensamiento Novohispano.*
+ - *Biblioteca digital del pensamiento Novohispano.*
 Es una colección de ediciones digitales de transcripciones diplomáticos de libros sobre el debate de la naturaleza de los cometas. Ofrece una indexación automática, información
 acerca de: personas, obras citadas, significado de palabras del español antiguo y de conceptos técnicos, médicos, astronómicos, y astrológicos, por medio de índices.
 ***
 #### Gimena del Río 
 En este artículo se mencionan los últimos tres congresos en Humanidades Digitales en países de habla hispana que se dieron del año 2013 al 2014. 
-1. *El Congreso de la Sociedad Humanidades Digitales Hispánicas (HDH).* La Coruña, España, 2013. 
+ - *El Congreso de la Sociedad Humanidades Digitales Hispánicas (HDH).* La Coruña, España, 2013. 
 Este congreso tuvo una orientación filológica importante, en paralelo se organizó un curso-taller cuyos módulos fueron: introducción a los lenguajes de
 marcado de texto: XML y TEI, herramientas digitales para la Filología, Diseño de bases de datos en proyectos de Humanidades, creación de contenidos digitales: libro electrónico
 y creación de una biblioteca digital.
 La Unión Europea mostraba un gran interés en la digitalización y edición del patrimonio cultural, por lo que destinaban más recursos a esta
 labor. 
-2. *El Segundo encuentro de Humanistas Digitales organizado por la RedHD.* Ciudad de México, 2014.
+ - *El Segundo encuentro de Humanistas Digitales organizado por la RedHD.* Ciudad de México, 2014.
 En los programas de estas ediciones una de las preocupaciones fundamentales es la digitalización y el desarrollo digital de las bibliotecas físicas, así como las reflexiones
 derivadas de la lectura y el conocimiento de los textos patrimoniales de México. 
 Isabel Galina también nos habla que desde septiembre del 2010 la RedHD ya se reunía para dialogar sobre cómo impulsar y apoyar la formalización de este campo. 
-3. *Las Jornadas Nacionales de Humanidades Digitales de la AAHD.* Buenos Aires, Argentina, 2014.
+ - *Las Jornadas Nacionales de Humanidades Digitales de la AAHD.* Buenos Aires, Argentina, 2014.
 En este congreso existe una mayor influencia de las ciencias sociales, así como una menor tendencia a representar este campo como algo bien definido, sino como un conjunto de
 procedimientos que atraviesan nuestras áreas de interés. 
-***
+
 ## Conclusiones 
 ***
 #### Isabel Galina 
@@ -113,7 +113,7 @@ a los saberes y percepciones. Es re pensar y los métodos y técnicas para cada 
 Se proponen la utilización de los conocimientos locales como una adaptación lógica a las condiciones y circunstancias ya existente. Esto se plantea como un enfoque funcional
 para comenzar a definir qué son las humanidades digitales. 
 Sumado a esto nos deja ver que a pesar de aún ser un campo emergente este logra amoldarse a distintas instituciones y disciplinas. 
-***
+
 
 
  
