@@ -2,19 +2,30 @@
 layout: page
 title: Humanidades digitales
 ---
-Las humanidades digitales se han perfilado como un nuevo campo de estudio, por lo cuál es importante pensar de qué estamos hablando cuando nos referimos a estas mismas. Aquí se  revisarán las posturas de Isabel Galina y Gimena del Río para poder conocer sus semejanzas y diferencias, y poder plantearnos qué significa este nuevo campo.
+Las humanidades digitales se han perfilado como un nuevo campo de estudio, por lo cuál es importante pensar de qué estamos hablando cuando nos referimos a estas mismas. Aquí se 
+revisarán las posturas de Isabel Galina y Gimena del Río para poder conocer sus semejanzas y diferencias, y poder plantearnos qué significa este nuevo campo.
 
 ## ¿Qué son? 
 ***
 #### Isabel Galina
-Es un término que abarca un nuevo campo interdisciplinario que busca entender el impacto y relación de las tecnologías de cómputo en el quehacer de los investigadores en las humanidades.  
-En particular dentro de este campo interdisciplinario se abarca la bibliotecología, ciencias de la información y ciencias de la computación. En el caso de la lingüística se utilizan las concordancias, las cuales después de la aparición de la computadora aumentaron.
-Los indicadores de consolidación de un nuevo de campo de estudio es la formación de asociaciones, organizaciones y centros especializados, así como la creación de programas y congresos. 
-Además, se añade que se le puede conocer por otros términos como recursos digitales para las humanidades, cómputo para las humanidades, informática para las humanidades e informática digital y cultural.
+Es un término que abarca un nuevo campo interdisciplinario que busca entender el impacto y relación de las tecnologías de cómputo en el quehacer de los investigadores en las
+humanidades.  
+En particular dentro de este campo interdisciplinario se abarca la bibliotecología, ciencias de la información y ciencias de la computación. En el caso de la lingüística se
+utilizan las concordancias, las cuales después de la aparición de la computadora aumentaron.
+Los indicadores de consolidación de un nuevo de campo de estudio es la formación de asociaciones, organizaciones y centros especializados, así como la creación de programas y
+congresos. 
+Además, se añade que se le puede conocer por otros términos como recursos digitales para las humanidades, cómputo para las humanidades, informática para las humanidades e
+informática digital y cultural.
 
 #### Gimena del Río 
-Se nos presenta este término lejano a tener una definición exacta, ya que se encuentra lejos de un consenso global. A pesar de formar parte de un currículo, tema e incluso ser tema de congresos. Dentro de esta multiplicidad de definiciones se nos presenta una que apunta a la necesidad de ampliar las fronteras del término al fenómeno de la cultura digital, así como otras que buscan centrarse en el mundo scholar. 
-Pero una de las vertientes que abre más este panorama es la geografía de las humanidades digitales donde se hace evidente la brecha de investigaciones hispanas y anglosajonas.  Aquí también entra en la discusión la distinción entre digital humanities y humanidades digitales, donde se incluye en problema denominado ‘glo-cal’. El fenómeno de las humanidades digitales busca extenderse a una escala global, pero las humanidades digitales en español tienen que construirse de una manera más autónoma y sin depender de las estructuras y esquemas antes elaborados de los english departaments. Se busca con esta distinción enfocarse en el conocimiento local para la adaptación de esta disciplina, pues este responde a los condicionamientos económicos, sociales y políticos, que pueden influir en el modo, gestión y percepción del conocimiento.
+Se nos presenta este término lejano a tener una definición exacta, ya que se encuentra lejos de un consenso global. A pesar de formar parte de un currículo, tema e incluso ser
+tema de congresos. Dentro de esta multiplicidad de definiciones se nos presenta una que apunta a la necesidad de ampliar las fronteras del término al fenómeno de la cultura 
+digital, así como otras que buscan centrarse en el mundo scholar. 
+Pero una de las vertientes que abre más este panorama es la geografía de las humanidades digitales donde se hace evidente la brecha de investigaciones hispanas y anglosajonas.  
+Aquí también entra en la discusión la distinción entre digital humanities y humanidades digitales, donde se incluye en problema denominado ‘glo-cal’. El fenómeno de las 
+humanidades digitales busca extenderse a una escala global, pero las humanidades digitales en español tienen que construirse de una manera más autónoma y sin depender de las 
+estructuras y esquemas antes elaborados de los english departaments. Se busca con esta distinción enfocarse en el conocimiento local para la adaptación de esta disciplina, pues 
+este responde a los condicionamientos económicos, sociales y políticos, que pueden influir en el modo, gestión y percepción del conocimiento.
 
 ## Origen 
 ***
@@ -61,28 +72,40 @@ Se reconoce que uno de los retos actuales es la internacionalización mediante l
 Las iniciativas en este surgen mayoritariamente en EUA, UK y Canadá. En México esto es un área desentendida y en respuesta a eso se crea la red de humanidades digitales (redHD)
 para impulsar este nuevo campo. 
 Se nos ponen de ejemplo tres proyectos: 
+
  - *El Corpus histórico del Español en México.*
+
 Este sitio ofrece una colección de documentos diacrónicos sobre diversos géneros textuales, además de que brinda herramientas para su exploración y análisis. Este sitio es una
 valiosa herramienta para la lingüística (creación de recursos). 
+
  - *El expediente en línea del Proceso judicial a Francisco I. Madero en 1910.*
+
 Aquí se pueden encontrar cuadernos, documentos y fojas sobre este hecho histórico.
+
  - *Biblioteca digital del pensamiento Novohispano.*
+
 Es una colección de ediciones digitales de transcripciones diplomáticos de libros sobre el debate de la naturaleza de los cometas. Ofrece una indexación automática, información
 acerca de: personas, obras citadas, significado de palabras del español antiguo y de conceptos técnicos, médicos, astronómicos, y astrológicos, por medio de índices.
 
 #### Gimena del Río 
 En este artículo se mencionan los últimos tres congresos en Humanidades Digitales en países de habla hispana que se dieron del año 2013 al 2014. 
+
  - *El Congreso de la Sociedad Humanidades Digitales Hispánicas (HDH).* La Coruña, España, 2013. 
+ 
 Este congreso tuvo una orientación filológica importante, en paralelo se organizó un curso-taller cuyos módulos fueron: introducción a los lenguajes de
 marcado de texto: XML y TEI, herramientas digitales para la Filología, Diseño de bases de datos en proyectos de Humanidades, creación de contenidos digitales: libro electrónico
 y creación de una biblioteca digital.
 La Unión Europea mostraba un gran interés en la digitalización y edición del patrimonio cultural, por lo que destinaban más recursos a esta
 labor. 
+
  - *El Segundo encuentro de Humanistas Digitales organizado por la RedHD.* Ciudad de México, 2014.
+
 En los programas de estas ediciones una de las preocupaciones fundamentales es la digitalización y el desarrollo digital de las bibliotecas físicas, así como las reflexiones
 derivadas de la lectura y el conocimiento de los textos patrimoniales de México. 
-Isabel Galina también nos habla que desde septiembre del 2010 la RedHD ya se reunía para dialogar sobre cómo impulsar y apoyar la formalización de este campo. 
+Isabel Galina también nos habla que desde septiembre del 2010 la RedHD ya se reunía para dialogar sobre cómo impulsar y apoyar la formalización de este campo.
+
  - *Las Jornadas Nacionales de Humanidades Digitales de la AAHD.* Buenos Aires, Argentina, 2014.
+
 En este congreso existe una mayor influencia de las ciencias sociales, así como una menor tendencia a representar este campo como algo bien definido, sino como un conjunto de
 procedimientos que atraviesan nuestras áreas de interés. 
 
@@ -106,15 +129,3 @@ Sumado a esto nos deja ver que a pesar de aún ser un campo emergente este logra
 ### Bibliografía 
 1. q
 2. q
-
-
-
- 
-
-
-
-
-
-
-
-
