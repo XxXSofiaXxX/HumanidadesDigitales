@@ -1,1 +1,5 @@
-AAAAAAAAAAAAAAAAAAA
+---
+layout: home
+---
+
+AAAAAAAAAAAAAAAAAAA 
