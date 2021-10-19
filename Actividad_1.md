@@ -127,5 +127,5 @@ para comenzar a definir qué son las humanidades digitales.
 Sumado a esto nos deja ver que a pesar de aún ser un campo emergente este logra amoldarse a distintas instituciones y disciplinas. 
 
 ### Bibliografía 
-1. q
-2. q
+1. Galina, I. (2011). [*¿Qué son las humanidades digitales?*.](https://www.revista.unam.mx/vol.12/num7/art68/#a)
+2. Del Río, G. (---) ¿De qué hablamos cuando hablamos de Humanidades Digitales?
