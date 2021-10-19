@@ -1,6 +1,10 @@
 # Site settings
+
 title: Cajón filosófico 
 author:
   name: Alva Sofía
   email: endlessnyarlatothep@gmail.com
-description: Esta página va a ser una herramienta para almacenar, difundir y organizar todos las actividades que se realicen en el Seminario de Humanidades digitales.
+description: Un espacio de difusión de las humanidades humanidades y su labor, así como de fragmentos digitales.
+
+# Build settings
+remote_theme: jekyll/minima
