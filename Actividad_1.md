@@ -8,22 +8,13 @@ Las humanidades digitales se han perfilado como un nuevo campo de estudio, por l
 ***
 #### Isabel Galina
 Es un término que abarca un nuevo campo interdisciplinario que busca entender el impacto y relación de las tecnologías de cómputo en el quehacer de los investigadores en las humanidades.  
-En particular dentro de este campo interdisciplinario se abarca la bibliotecología, ciencias de la información y ciencias de la computación. En el caso de la lingüística se
-utilizan las concordancias, las cuales después de la aparición de la computadora aumentaron.
-Los indicadores de consolidación de un nuevo de campo de estudio es la formación de asociaciones, organizaciones y centros especializados, así como la creación de programas
-académicos y congresos. 
-Además, se añade que se le puede conocer por otros términos como recursos digitales para las humanidades, cómputo para las humanidades, informática para las humanidades e
-informática digital y cultural.
+En particular dentro de este campo interdisciplinario se abarca la bibliotecología, ciencias de la información y ciencias de la computación. En el caso de la lingüística se utilizan las concordancias, las cuales después de la aparición de la computadora aumentaron.
+Los indicadores de consolidación de un nuevo de campo de estudio es la formación de asociaciones, organizaciones y centros especializados, así como la creación de programas y congresos. 
+Además, se añade que se le puede conocer por otros términos como recursos digitales para las humanidades, cómputo para las humanidades, informática para las humanidades e informática digital y cultural.
 
 #### Gimena del Río 
-Se nos presenta este término lejano a tener una definición exacta, ya que se encuentra lejos de un consenso global. A pesar de formar parte de un currículo, tema e incluso ser
-tema de congresos. Dentro de esta multiplicidad de definiciones se nos presenta una que apunta a la necesidad de ampliar las fronteras del término al fenómeno de la cultura
-digital, así como otras que buscan centrarse en el mundo scholar. 
-Pero una de las vertientes que abre más este panorama es la geografía de las humanidades digitales donde se hace evidente la brecha de investigaciones hispanas y anglosajonas. 
-Aquí también entra en la discusión la distinción entre digital humanities y humanidades digitales, donde se incluye en problema denominado ‘glo-cal’. El fenómeno de las
-humanidades digitales busca extenderse a una escala global, pero las humanidades digitales en español tienen que construirse de una manera más autónoma y sin depender de las
-estructuras y esquemas antes elaborados de los english departaments. Se busca con esta distinción enfocarse en el conocimiento local para la adaptación de esta disciplina, pues
-este responde a los condicionamientos económicos, sociales y políticos, que pueden influir en el modo, gestión y percepción del conocimiento.
+Se nos presenta este término lejano a tener una definición exacta, ya que se encuentra lejos de un consenso global. A pesar de formar parte de un currículo, tema e incluso ser tema de congresos. Dentro de esta multiplicidad de definiciones se nos presenta una que apunta a la necesidad de ampliar las fronteras del término al fenómeno de la cultura digital, así como otras que buscan centrarse en el mundo scholar. 
+Pero una de las vertientes que abre más este panorama es la geografía de las humanidades digitales donde se hace evidente la brecha de investigaciones hispanas y anglosajonas.  Aquí también entra en la discusión la distinción entre digital humanities y humanidades digitales, donde se incluye en problema denominado ‘glo-cal’. El fenómeno de las humanidades digitales busca extenderse a una escala global, pero las humanidades digitales en español tienen que construirse de una manera más autónoma y sin depender de las estructuras y esquemas antes elaborados de los english departaments. Se busca con esta distinción enfocarse en el conocimiento local para la adaptación de esta disciplina, pues este responde a los condicionamientos económicos, sociales y políticos, que pueden influir en el modo, gestión y percepción del conocimiento.
 
 ## Origen 
 ***
