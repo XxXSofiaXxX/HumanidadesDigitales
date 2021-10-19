@@ -2,4 +2,4 @@
 layout: page
 title: Texto digital 
 ---
-a 
+[Enlace en línea del mapa conceptual] (https://venngage.net/ps/ryM3QZVsFHo/el-texto-digital)
