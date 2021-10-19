@@ -2,6 +2,5 @@
 layout: page
 title: Humanidades digitales
 ---
-a
-a
-a
+# ¿Qué son las humanidades digitales?
+
