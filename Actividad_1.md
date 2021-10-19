@@ -1,4 +1,7 @@
 # Site settings
 
 title: Humanidades digitales
-A
+author:
+  name: Alva Sofía
+  email: endlessnyarlatothep@gmail.com
+description: Tarea 1
