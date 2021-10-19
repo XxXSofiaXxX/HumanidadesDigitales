@@ -3,7 +3,7 @@ layout: home
 ---
 *¡Hola!*
 
-Esta página va a ser una herramienta para almacenar, difundir y organizar todos las actividades que se realicen en el Seminario de Humanidades digitales. 
+Esta página va a ser una herramienta para almacenar, difundir y organizar todas las actividades que se realicen en el Seminario de Humanidades digitales. 
 
 #### Contenidos ####
 
