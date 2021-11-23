@@ -24,7 +24,7 @@ Cuando ocurre que estoy ocupado, ni por un instante pienso en el <sentido> de na
   
 Más de una vez me ha ocurrido salir de casa porque, de haberme quedado, no estaba seguro de poder resistir a alguna resolución súbita. La calle es más tranquilizadora porque se piensa menos en uno mismo, y porque en ella todo se debilita y se deteriora, empezando por el desasosiego. 
   
-El conocimiento de sí mismo , el más amargo de todos, es el que menos se cultiva: ¿qué senito tiene entonces sorprenderse a cada instante en flagrante delito de ilusión , remontar sin piedad hasta la raíz de cada acto y perder causa tras causa ante el propio tribunal?
+El conocimiento de sí mismo , el más amargo de todos, es el que menos se cultiva: ¿qué sentido tiene entonces sorprenderse a cada instante en flagrante delito de ilusión , remontar sin piedad hasta la raíz de cada acto y perder causa tras causa ante el propio tribunal?
   
 En relación a cualquier acto de vida el espíritu tiene papel de aguafiestas.
   
