@@ -2,11 +2,11 @@
 layout: page
 title: Fragmentos filosóficos, Cioran
 ---
-Cioran propone una ética de la introspección. Dicho estilo, rescata uno de los elementos olvidados en las ciencias sociales contemporáneas, la emotividad del conocimiento, del saber primigenio, que comienza siempre con la reflexión sobre uno mismo.
+>Cioran propone una ética de la introspección. Dicho estilo, rescata uno de los elementos olvidados en las ciencias sociales contemporáneas, la emotividad del conocimiento, del saber primigenio, que comienza siempre con la reflexión sobre uno mismo.  [Cioran y la ética de la introspección](http://www.scielo.org.mx/scielo.phpscript=sci_arttext&pid=S1870-00632005000200006)
 
 ***
 
-##Obras filosóficas
+## Obras filosóficas
 
 1. El no-saber es el fundamento de todo, crea todo mediante un acto que repite a cada instante, engendra este mundo y cualquier otro pues no cesa de tomar por real aquello que no lo es. El no-saber es la gran equivocación que sirve de base a todas nuestras verdades; el no-saber es más antiguo y más poderoso que todos los dioses reunidos.
 
@@ -18,7 +18,7 @@ Cioran propone una ética de la introspección. Dicho estilo, rescata uno de los
 
 ***
 
-##Sobre el hombre interior
+## Sobre el hombre interior
 
 1. Mirando las cosas desde el punto de vista de la naturaleza, el hombre fue hecho para vivir hacia el exterior. Si quiere ver dentro de sí mismo, debe cerrar los ojos, renunciar a la acción, salir de la corriente. Lo que se llama "vida interior" es un fenómeno tardío sólo posible por una desaceleración de nuestras actividades vitales: el "alma" surgió y se desarrolló a expensas del buen funcionamiento de los órganos. 
   
@@ -33,7 +33,8 @@ Cioran propone una ética de la introspección. Dicho estilo, rescata uno de los
 6. La conciencia es algo más que la espina, es el puñal de la carne.
   
    ![Hombre interior](https://user-images.githubusercontent.com/89622261/145500032-4b30f6c2-88bd-4c8b-8cee-daefb4681ef3.jpg)
-    Autor: Thomas Stetson
+   
+  *Autor: Thomas Stetson* 
 
   
 
