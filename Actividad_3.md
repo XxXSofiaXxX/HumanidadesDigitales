@@ -25,8 +25,9 @@ title: Fragmentos filosóficos, Cioran
 2. Cuando ocurre que estoy ocupado, ni por un instante pienso en el <sentido> de nada, y, mucho menos, evidentemente en el de que estoy haciendo. Prueba de que el secreto de todo reside en el acto y no en la abstención, causa funesta de la conciencia.
   
 3. Más de una vez me ha ocurrido salir de casa porque, de haberme quedado, no estaba seguro de poder resistir a alguna resolución súbita. La calle es más tranquilizadora porque se piensa menos en uno mismo, y porque en ella todo se debilita y se deteriora, empezando por el desasosiego. 
-  
-4.El conocimiento de sí mismo , el más amargo de todos, es el que menos se cultiva: ¿qué sentido tiene entonces sorprenderse a cada instante en flagrante delito de ilusión , remontar sin piedad hasta la raíz de cada acto y perder causa tras causa ante el propio tribunal?
+
+4.El conocimiento de sí mismo , el más amargo de todos, es el que menos se cultiva: ¿qué sentido tiene entonces sorprenderse a cada instante en flagrante delito de ilusión
+  remontar sin piedad hasta la raíz de cada acto y perder causa tras causa ante el propio tribunal?
   
 5. En relación a cualquier acto de vida el espíritu tiene papel de aguafiestas.
   
