@@ -10,11 +10,12 @@ title: Fragmentos filosóficos, Cioran
 `<TEI xmlns=''http://www.tei-c.org/ns/1.0''>` 
 
 `<teiHeader>` <br>
-`<fileDesc>`
-`<titleStmt>`
-`<title>` *Obras filosóficas* `</title>`
-`</titleStmt>`
-`<sourceDesc>`
+`<fileDesc>`  <br>
+`<titleStmt>`  <br>
+`<title>` *Obras filosóficas* `</title>` <br>
+`</titleStmt>` <br>
+`<sourceDesc>` <br>
+
 `<bibl>` 
 `<p>`
 `<title>` Del inconveniente de haber nacido `</title>`
