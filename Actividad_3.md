@@ -32,19 +32,19 @@ title: Fragmentos filosóficos, Cioran
 `<body>` <br>
 
 `<div type="aforismo" n=1>`<br>
-El no-saber es el fundamento de todo, crea todo mediante un acto que repite a cada instante, engendra este mundo y cualquier otro pues no cesa de tomar por real aquello que no lo es. El no-saber es la gran equivocación que sirve de base a todas nuestras verdades; el no-saber es más antiguo y más poderoso que todos los dioses reunidos.
+El `<term type= "concepto filosófico" xml:id= conocimiento>` no-saber `</term type>` es el `<interp type= posición y caracterización del no saber>` fundamento de todo, crea todo mediante un acto que repite a cada instante, engendra este `<term type= "concepto filosófico" xml:id= mundo>` mundo `</term type>`y cualquier otro pues no cesa de tomar por `<term type= "concepto filosófico" xml:id= sustancia>` real `</term type>`aquello que no lo es `</interp type>`. `<interp type= relación del no saber y la verdad>` El no-saber es la gran equivocación que sirve de base a todas nuestras verdades `</interp type>` ; `<distinct type="metáfora">` el no-saber es más antiguo y más poderoso que todos los dioses reunidos. `</distinct type>` 
 `</div>` <br>
 
 `<div type="aforismo" n=2>`<br>
-Sólo tienen éxito las filosofías y las religiones que nos estimulan, ya sea en el nombre del progreso o del infierno. Condenado o no, el hombre experimenta una necesidad absoluta de estar en el centro de todo. Incluso por esta única razón es hombre, *se hizo hombre*. Y si un día no sintiera ya esa necesidad, tendría que eclipsarse en favor de otro animal más orgulloso y loco. 
+Sólo tienen éxito las filosofías y las religiones que nos estimulan, ya sea en el nombre del progreso o del infierno. Condenado o no, `<interp type= antropocentrismo>` el hombre experimenta una necesidad absoluta de estar en el centro de todo. Incluso por esta única razón es hombre, *se hizo hombre*. `</interp type>` Y si un día no sintiera ya esa necesidad, tendría que eclipsarse en favor de otro animal más orgulloso y loco. 
 `</div>` <br>
 
 `<div type="aforismo" n=3>` <br>
-El valor intrínseco de un libro no depende de la importancia del tema (sino, los teólogos serían los más importantes), sino de la forma de abordar lo accidental y lo insignificante, de dominar lo ínfimo. Lo esencial no ha necesitado nunca del menor talento. 
+El valor intrínseco de un libro no depende de la importancia del tema (sino, los teólogos serían los más importantes), sino de la forma de abordar lo `<term type= "concepto filosófico" xml:id= sustancia>` accidental `</term type>` y lo insignificante, de dominar lo ínfimo. Lo `<term type= "concepto filosófico" xml:id= sustancia>` esencial `</term type>` no ha necesitado nunca del menor talento. 
 `</div>` <br>
 
 `<div type="aforismo" n=4>` <br>
-Las obras mueren; los fragmentos, como no han vivido, no pueden morir. 
+`<distinct type="metáfora">` Las obras mueren; los fragmentos, como no han vivido, no pueden morir. `</distinct type>`
 `</div>` <br>
 
 `</body>` <br>
