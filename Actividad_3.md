@@ -80,11 +80,11 @@ Las obras mueren; los fragmentos, como no han vivido, no pueden morir.
 `</div>` <br>
 
 `<div type="aforismo" n=2>` <br>
-Cuando ocurre que estoy ocupado, ni por un instante pienso en el <sentido> de `<term type= "concepto filosófico" xml:id= "sustancia">` nada `</term type>`, y, mucho menos, evidentemente en el de que estoy haciendo. `<interp type= Origen de la conciencia>` Prueba de que el secreto de todo reside en el acto y no en la abstención, causa funesta de la `<term type= "concepto filosófico" xml:id= "mente">` conciencia `</term type>` `</interp type>`.
+Cuando ocurre que estoy ocupado, ni por un instante pienso en el *sentido* de `<term type= "concepto filosófico" xml:id= "sustancia">` nada `</term type>`, y, mucho menos, evidentemente en el de que estoy haciendo. `<interp type= Origen de la conciencia>` Prueba de que el secreto de todo reside en el acto y no en la abstención, causa funesta de la `<term type= "concepto filosófico" xml:id= "mente">` conciencia `</term type>` `</interp type>`.
 `</div>` <br>
   
 `<div type="aforismo" n=3>` <br>
-Más de una vez me ha ocurrido salir de casa porque, de haberme quedado, no estaba seguro de poder resistir a alguna resolución súbita. `<interp type= Caracterización del autoconocimiento como causa del malestar> La calle es más tranquilizadora porque se piensa menos en uno mismo, `</interp type>` y porque en ella todo se debilita y se deteriora, empezando por el desasosiego. 
+Más de una vez me ha ocurrido salir de casa porque, de haberme quedado, no estaba seguro de poder resistir a alguna resolución súbita. `<interp type= Caracterización del autoconocimiento como causa del malestar>` La calle es más tranquilizadora porque se piensa menos en uno mismo, `</interp type>` y porque en ella todo se debilita y se deteriora, empezando por el desasosiego. 
 `</div>` <br>
 
 `<div type="aforismo" n=4>` <br>
