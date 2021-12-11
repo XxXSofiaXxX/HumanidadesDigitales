@@ -11,11 +11,11 @@ title: Fragmentos filosóficos, Cioran
 `<teiHeader>` 
  `<fileDesc>`
  `<titleStmt>`
- `<title>` ## Obras filosóficas `</title>`
+ `<title>` Obras filosóficas `</title>`
 `</titleStmt>`
 `<sourceDesc>`
 ` <bibl>`
-`<title>` Del inconveniente de haber nacido `</title>`
+`<title>` *Del inconveniente de haber nacido* `</title>`
 `<author>` E. M. Cioran `</author>`
 `<publisher>` Taurus `</publisher>`
 `<date>` 2018 `</date>`
@@ -34,7 +34,24 @@ title: Fragmentos filosóficos, Cioran
 
 ***
 
-## Sobre el hombre interior
+`<?xml version=''1.0'' encoding=''UTF-8''?>` 
+`<?xml-model href=''http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rng'' schematypens=''http://relaxng.org/ns/structure/1.0''?>`
+ `<TEI xmlns=''http://www.tei-c.org/ns/1.0''>`
+`<teiHeader>` 
+ `<fileDesc>`
+ `<titleStmt>`
+ `<title>` *Sobre el hombre interior* `</title>`
+`</titleStmt>`
+`<sourceDesc>`
+` <bibl>`
+`<title>` Del inconveniente de haber nacido `</title>`
+`<author>` E. M. Cioran `</author>`
+`<publisher>` Taurus `</publisher>`
+`<date>` 2018 `</date>`
+`</bibl>`
+`</sourseDesc>`
+`</teiHeader>` 
+`</fileDesc>`
 
 1. Mirando las cosas desde el punto de vista de la naturaleza, el hombre fue hecho para vivir hacia el exterior. Si quiere ver dentro de sí mismo, debe cerrar los ojos, 
 renunciar a la acción, salir de la corriente. Lo que se llama "vida interior" es un fenómeno tardío sólo posible por una desaceleración de nuestras actividades vitales: el "alma" surgió y se desarrolló a expensas del buen funcionamiento de los órganos. 
