@@ -89,16 +89,15 @@ porque se piensa menos en uno mismo, y porque en ella todo se debilita y se dete
 `</div>` <br>
 
 `<div type="aforismo" n=4>` <br>
-4. El conocimiento de sí mismo , el más amargo de todos, es el que menos se cultiva: ¿qué sentido tiene entonces sorprenderse a cada instante en flagrante delito de ilusión 
-remontar sin piedad hasta la raíz de cada acto y perder causa tras causa ante el propio tribunal?
+4. El `<term type= "concepto filosófico" xml:id= "Hombre">` conocimiento de sí mismo `</term type>`, el más amargo de todos, es el que menos se cultiva: `<distinct type="metáfora">` ¿qué sentido tiene entonces sorprenderse a cada instante en flagrante delito de ilusión remontar sin piedad hasta la raíz de cada acto y perder causa tras causa ante el propio tribunal? `</distinct type>`
 `</div>` <br>
 
 `<div type="aforismo" n=5>` <br>
-5. En relación a cualquier acto de vida el espíritu tiene papel de aguafiestas.
+5. En relación a cualquier acto de vida el `<term type= "concepto filosófico" xml:id= mente>` espíritu `</term type>` tiene papel de aguafiestas.
 `</div>` <br>
   
 `<div type="aforismo" n=6>` <br>  
-6. La conciencia es algo más que la espina, es el puñal de la carne.
+6. La `<term type= "concepto filosófico" xml:id= mente>` conciencia `</term type>` `<distinct type="metáfora">` es algo más que la espina, es el puñal de la `<term type= "concepto filosófico" xml:id= cuerpo>` carne `</term type>``</distinct type>`.
 `</div>` <br>
   
 `</body>` <br>
