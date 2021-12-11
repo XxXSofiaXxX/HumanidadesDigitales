@@ -5,8 +5,24 @@ title: Fragmentos filosóficos, Cioran
 >Cioran propone una ética de la introspección. Dicho estilo, rescata uno de los elementos olvidados en las ciencias sociales contemporáneas, la emotividad del conocimiento, del saber primigenio, que comienza siempre con la reflexión sobre uno mismo.  [Cioran y la ética de la introspección](http://www.scielo.org.mx/scielo.phpscript=sci_arttext&pid=S1870-00632005000200006)
 
 ***
-
-## Obras filosóficas
+`<?xml version=''1.0'' encoding=''UTF-8''?>` 
+`<?xml-model href=''http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rng'' schematypens=''http://relaxng.org/ns/structure/1.0''?>`
+ `<TEI xmlns=''http://www.tei-c.org/ns/1.0''>`
+`<teiHeader>` 
+ `<fileDesc>`
+ `<titleStmt>`
+ `<title>` ## Obras filosóficas `</title>`
+`</titleStmt>`
+`<sourceDesc>`
+` <bibl>`
+`<title>` Del inconveniente de haber nacido `</title>`
+`<author>` E. M. Cioran `</author>`
+`<publisher>` Taurus `</publisher>`
+`<date>` 2018 `</date>`
+`</bibl>`
+`</sourseDesc>`
+`</teiHeader>` 
+`</fileDesc>`
 
 1. El no-saber es el fundamento de todo, crea todo mediante un acto que repite a cada instante, engendra este mundo y cualquier otro pues no cesa de tomar por real aquello que no lo es. El no-saber es la gran equivocación que sirve de base a todas nuestras verdades; el no-saber es más antiguo y más poderoso que todos los dioses reunidos.
 
