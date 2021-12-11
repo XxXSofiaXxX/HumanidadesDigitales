@@ -14,7 +14,7 @@ title: Fragmentos filosóficos, Cioran
  `<title>` Obras filosóficas `</title>`
 `</titleStmt>`
 `<sourceDesc>`
-` <bibl>`
+` <bibl>` <br>
 `<title>` *Del inconveniente de haber nacido* `</title>`
 `<author>` E. M. Cioran `</author>`
 `<publisher>` Taurus `</publisher>`
