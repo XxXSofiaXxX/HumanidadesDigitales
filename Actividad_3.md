@@ -7,15 +7,15 @@ title: Fragmentos filosóficos, Cioran
 ***
 `<?xml version=''1.0'' encoding=''UTF-8''?>` 
 `<?xml-model href=''http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rng'' schematypens=''http://relaxng.org/ns/structure/1.0''?>`
- `<TEI xmlns=''http://www.tei-c.org/ns/1.0''>`
+`<TEI xmlns=''http://www.tei-c.org/ns/1.0''>`
 `<teiHeader>` 
- `<fileDesc>`
- `<titleStmt>`
- `<title>` Obras filosóficas `</title>`
+`<fileDesc>`
+`<titleStmt>`
+`<title>` *Obras filosóficas* `</title>`
 `</titleStmt>`
 `<sourceDesc>`
-` <bibl>` 
-`<title>` *Del inconveniente de haber nacido* `</title>`
+`<bibl>` 
+`<title>` Del inconveniente de haber nacido `</title>`
 `<author>` E. M. Cioran `</author>`
 `<publisher>` Taurus `</publisher>`
 `<date>` 2018 `</date>`
@@ -36,14 +36,14 @@ title: Fragmentos filosóficos, Cioran
 
 `<?xml version=''1.0'' encoding=''UTF-8''?>` 
 `<?xml-model href=''http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rng'' schematypens=''http://relaxng.org/ns/structure/1.0''?>`
- `<TEI xmlns=''http://www.tei-c.org/ns/1.0''>`
+`<TEI xmlns=''http://www.tei-c.org/ns/1.0''>`
 `<teiHeader>` 
- `<fileDesc>`
- `<titleStmt>`
- `<title>` *Sobre el hombre interior* `</title>`
+`<fileDesc>`
+`<titleStmt>`
+`<title>` *Sobre el hombre interior* `</title>`
 `</titleStmt>`
 `<sourceDesc>`
-` <bibl>`
+`<bibl>`
 `<title>` Del inconveniente de haber nacido `</title>`
 `<author>` E. M. Cioran `</author>`
 `<publisher>` Taurus `</publisher>`
