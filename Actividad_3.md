@@ -28,8 +28,8 @@ title: Fragmentos filosóficos, Cioran
 `</teiHeader>` 
 `</fileDesc>`
 
-`<text>`
-`<body>`
+`<text>` <br>
+`<body>` <br>
 
 1. El no-saber es el fundamento de todo, crea todo mediante un acto que repite a cada instante, engendra este mundo y cualquier otro pues no cesa de tomar por real aquello que no lo es. El no-saber es la gran equivocación que sirve de base a todas nuestras verdades; el no-saber es más antiguo y más poderoso que todos los dioses reunidos.
 
@@ -38,9 +38,9 @@ title: Fragmentos filosóficos, Cioran
 3. El valor intrínseco de un libro no depende de la importancia del tema (sino, los teólogos serían los más importantes), sino de la forma de abordar lo accidental y lo insignificante, de dominar lo ínfimo. Lo esencial no ha necesitado nunca del menor talento. 
 
 4. Las obras mueren; los fragmentos, como no han vivido, no pueden morir. 
-`</body>`
-`</text>`
-`</TEI>`
+`</body>` <br>
+`</text>` <br>
+`</TEI>`  <br>
 ***
 
 `<?xml version=''1.0'' encoding=''UTF-8''?>` 
@@ -62,8 +62,8 @@ title: Fragmentos filosóficos, Cioran
 `</teiHeader>` 
 `</fileDesc>`
 
-`<text>`
-`<body>`
+`<text>` <br>
+`<body>` <br>
 
 1. Mirando las cosas desde el punto de vista de la naturaleza, el hombre fue hecho para vivir hacia el exterior. Si quiere ver dentro de sí mismo, debe cerrar los ojos, 
 renunciar a la acción, salir de la corriente. Lo que se llama "vida interior" es un fenómeno tardío sólo posible por una desaceleración de nuestras actividades vitales: el "alma" surgió y se desarrolló a expensas del buen funcionamiento de los órganos. 
@@ -80,9 +80,9 @@ remontar sin piedad hasta la raíz de cada acto y perder causa tras causa ante e
   
 6. La conciencia es algo más que la espina, es el puñal de la carne.
  
-`</body>`
-`</text>`
-`</TEI>`
+`</body>` <br>
+`</text>` <br>
+`</TEI>`  <br>
 
 ***
   
