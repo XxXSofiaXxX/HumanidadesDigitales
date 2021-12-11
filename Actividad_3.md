@@ -15,11 +15,13 @@ title: Fragmentos filosóficos, Cioran
 `</titleStmt>`
 `<sourceDesc>`
 `<bibl>` 
+`<p>`
 `<title>` Del inconveniente de haber nacido `</title>`
 `<author>` E. M. Cioran `</author>`
 `<publisher>` Taurus `</publisher>`
 `<date>` 2018 `</date>`
 `</bibl>`
+`</p>`
 `</sourseDesc>`
 `</teiHeader>` 
 `</fileDesc>`
