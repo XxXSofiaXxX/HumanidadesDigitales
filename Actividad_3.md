@@ -9,19 +9,19 @@ title: Fragmentos filosóficos, Cioran
 `<?xml-model href=''http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rng'' schematypens=''http://relaxng.org/ns/structure/1.0''?>`
 `<TEI xmlns=''http://www.tei-c.org/ns/1.0''>` 
 
-`<teiHeader>` <br>
-`<fileDesc>`  <br>
-`<titleStmt>`  <br>
+`<teiHeader>`   <br>
+`<fileDesc>`    <br>
+`<titleStmt>`   <br>
 `<title>` *Obras filosóficas* `</title>` <br>
-`</titleStmt>` <br>
-`<sourceDesc>` <br>
+`</titleStmt>`  <br>
+`<sourceDesc>`  <br>
 
 `<bibl>` 
 `<p>`
-`<title>` Del inconveniente de haber nacido `</title>`
-`<author>` E. M. Cioran `</author>`
-`<publisher>` Taurus `</publisher>`
-`<date>` 2018 `</date>`
+`<title>` Del inconveniente de haber nacido `</title>` <br>
+`<author>` E. M. Cioran `</author>` <br>
+`<publisher>` Taurus `</publisher>` <br>
+`<date>` 2018 `</date>` <br>
 `</bibl>`
 `</p>`
 `</sourseDesc>`
